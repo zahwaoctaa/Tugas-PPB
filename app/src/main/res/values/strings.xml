@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Biodata</string>
+    <string name="biodata">Biodata</string>
+    <string name="akbar_dwi_syahputra_a11_2019_12217">Akbar Dwi Syahputra - A11.2019.12217</string>
+    <string name="hobi_coding">Hobi: Coding</string>
+    <string name="nama_saya_akbar_dwi_syahputra_saya_mahasiswa_udinus_jurusan_teknik_informatika_s1_angkatan_tahun_2019_saat_ini_saya_sedang_menempuh_mata_kuliah_pemrograman_perangkat_bergerak_pada_semester_5_dan_saya_juga_sedang_mengikuti_kegiatan_mbkm">Nama saya Akbar Dwi Syahputra. Saya Mahasiswa Udinus jurusan Teknik Informatika S1 angkatan tahun 2019. Saat ini saya sedang menempuh mata kuliah Pemrograman Perangkat Bergerak pada semester 5 dan saya juga sedang mengikuti kegiatan MBKM.</string>
+    <string name="alamat">Alamat</string>
+    <string name="telepon">Telepon</string>
+    <string name="email">Email</string>
+</resources>
