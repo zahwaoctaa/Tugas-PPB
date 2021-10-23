@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Documents/AndroidStudio/PPB/AplikasiMenuMakanan/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Documents/AndroidStudio/PPB/AplikasiMenuMakanan/app/src/main/res/layout/activity_main2.xml" value="0.5" />
+        <entry key="..\:/Documents/AndroidStudio/PPB/AplikasiMenuMakanan/app/src/main/res/layout/item_makanan.xml" value="0.25" />
+        <entry key="..\:/kuliah/Semester 5/PPB/ppb-Aplikasi-Menu-Makanan/ppb-Aplikasi-Menu-Makanan/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/kuliah/Semester 5/PPB/ppb-Aplikasi-Menu-Makanan/ppb-Aplikasi-Menu-Makanan/app/src/main/res/layout/activity_main2.xml" value="0.25" />
+        <entry key="..\:/kuliah/Semester 5/PPB/ppb-Aplikasi-Menu-Makanan/ppb-Aplikasi-Menu-Makanan/app/src/main/res/layout/item_makanan.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
