@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="#E1E1E1"
+    android:orientation="vertical"
+    android:paddingLeft="10dp"
+    android:paddingRight="10dp"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Kalkulator"
+        android:textAlignment="center"
+        android:textSize="34sp" />
+
+    <EditText
+        android:id="@+id/Angka1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:hint="Masukkan Angka"
+        android:inputType="number"
+        android:minHeight="48dp" />
+
+    <RadioGroup
+        android:id="@+id/radioGroup"
+        android:layout_width="match_parent"
+        android:layout_height="90dp"
+        android:orientation="horizontal"
+        tools:layout_editor_absoluteX="10dp"
+        tools:layout_editor_absoluteY="93dp">
+
+        <RadioButton
+            android:id="@+id/btnTambah"
+            android:layout_width="97dp"
+            android:layout_height="48dp"
+            android:layout_marginTop="24dp"
+            android:text="Tambah"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <RadioButton
+            android:id="@+id/btnKurang"
+            android:layout_width="97dp"
+            android:layout_height="48dp"
+            android:layout_marginTop="24dp"
+            android:text="Kurang"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <RadioButton
+            android:id="@+id/btnKali"
+            android:layout_width="74dp"
+            android:layout_height="48dp"
+            android:layout_marginTop="24dp"
+            android:text="Kali"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <RadioButton
+            android:id="@+id/btnBagi"
+            android:layout_width="74dp"
+            android:layout_height="48dp"
+            android:layout_marginTop="24dp"
+            android:text="Bagi"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+    </RadioGroup>
+
+    <EditText
+        android:id="@+id/Angka2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:hint="Masukkan Angka"
+        android:inputType="number"
+        android:minHeight="48dp" />
+
+    <Button
+        android:id="@+id/btnHitung"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#813A3A"
+        android:text="Hitung" />
+
+    <TextView
+        android:id="@+id/txtHasil"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#A6A6A6"
+        android:text="0"
+        android:textAlignment="center"
+        android:textSize="24sp" />
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/rec_kalkulator"
+        android:layout_width="match_parent"
+        android:layout_height="404dp"
+        android:background="#F1F1F1" />
+
+</LinearLayout>
