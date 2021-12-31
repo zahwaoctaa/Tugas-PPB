@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Documents/GitHub/KasirMobile/app/src/main/res/drawable/ic_kardus.xml" value="0.21614583333333334" />
+        <entry key="..\:/Documents/GitHub/KasirMobile/app/src/main/res/drawable/ic_keranjang.xml" value="0.21614583333333334" />
+        <entry key="..\:/Documents/GitHub/KasirMobile/app/src/main/res/drawable/ic_keranjangkosong.xml" value="0.21614583333333334" />
+        <entry key="..\:/Documents/GitHub/KasirMobile/app/src/main/res/drawable/ic_produk.xml" value="0.21614583333333334" />
+        <entry key="..\:/Documents/GitHub/KasirMobile/app/src/main/res/drawable/ic_riwayat.xml" value="0.21614583333333334" />
+        <entry key="..\:/Documents/GitHub/KasirMobile/app/src/main/res/drawable/ic_tambah_produk.xml" value="0.21614583333333334" />
+        <entry key="..\:/Documents/GitHub/KasirMobile/app/src/main/res/layout/activity_bantuan.xml" value="0.25" />
+        <entry key="..\:/Documents/GitHub/KasirMobile/app/src/main/res/layout/activity_intro.xml" value="0.19429347826086957" />
+        <entry key="..\:/Documents/GitHub/KasirMobile/app/src/main/res/layout/activity_login.xml" value="0.2" />
+        <entry key="..\:/Documents/GitHub/KasirMobile/app/src/main/res/layout/activity_login_screen.xml" value="0.33" />
+        <entry key="..\:/Documents/GitHub/KasirMobile/app/src/main/res/layout/activity_main.xml" value="0.19429347826086957" />
+        <entry key="..\:/Documents/GitHub/KasirMobile/app/src/main/res/layout/activity_splash_screen.xml" value="0.2" />
+        <entry key="..\:/Documents/GitHub/KasirMobile/app/src/main/res/layout/activity_tambah_otomatis.xml" value="0.25" />
+        <entry key="..\:/Documents/GitHub/KasirMobile/app/src/main/res/layout/activity_tentang.xml" value="0.33" />
+        <entry key="..\:/Documents/GitHub/KasirMobile/app/src/main/res/layout/row_produk.xml" value="0.2" />
+        <entry key="..\:/Documents/GitHub/KasirMobile/app/src/main/res/menu/toolbar_menu.xml" value="0.2" />
+        <entry key="..\:/kuliah/Semester 5/PPB/PPB - Tugas Akhir/PPB - Tugas Akhir/app/src/main/res/layout/activity_bantuan.xml" value="0.20416666666666666" />
+        <entry key="..\:/kuliah/Semester 5/PPB/PPB - Tugas Akhir/PPB - Tugas Akhir/app/src/main/res/layout/activity_intro.xml" value="0.20416666666666666" />
+        <entry key="..\:/kuliah/Semester 5/PPB/PPB - Tugas Akhir/PPB - Tugas Akhir/app/src/main/res/layout/activity_login_screen.xml" value="0.20416666666666666" />
+        <entry key="..\:/kuliah/Semester 5/PPB/PPB - Tugas Akhir/PPB - Tugas Akhir/app/src/main/res/layout/activity_main.xml" value="0.20416666666666666" />
+        <entry key="..\:/kuliah/Semester 5/PPB/PPB - Tugas Akhir/PPB - Tugas Akhir/app/src/main/res/layout/activity_splash_screen.xml" value="0.20416666666666666" />
+        <entry key="..\:/kuliah/Semester 5/PPB/PPB - Tugas Akhir/PPB - Tugas Akhir/app/src/main/res/layout/activity_tambah_manual.xml" value="0.33" />
+        <entry key="..\:/kuliah/Semester 5/PPB/PPB - Tugas Akhir/PPB - Tugas Akhir/app/src/main/res/layout/activity_tambah_otomatis.xml" value="0.20416666666666666" />
+        <entry key="..\:/kuliah/Semester 5/PPB/PPB - Tugas Akhir/PPB - Tugas Akhir/app/src/main/res/layout/activity_tentang.xml" value="0.33" />
+        <entry key="..\:/kuliah/Semester 5/PPB/PPB - Tugas Akhir/PPB - Tugas Akhir/app/src/main/res/layout/frag_keranjang.xml" value="0.33" />
+        <entry key="..\:/kuliah/Semester 5/PPB/PPB - Tugas Akhir/PPB - Tugas Akhir/app/src/main/res/layout/frag_produk.xml" value="0.5" />
+        <entry key="..\:/kuliah/Semester 5/PPB/PPB - Tugas Akhir/PPB - Tugas Akhir/app/src/main/res/layout/frag_riwayat.xml" value="0.33" />
+        <entry key="..\:/kuliah/Semester 5/PPB/PPB - Tugas Akhir/PPB - Tugas Akhir/app/src/main/res/layout/layout_screen.xml" value="0.20416666666666666" />
+        <entry key="..\:/kuliah/Semester 5/PPB/PPB - Tugas Akhir/PPB - Tugas Akhir/app/src/main/res/layout/layout_screen_bantuan.xml" value="0.20416666666666666" />
+        <entry key="..\:/kuliah/Semester 5/PPB/PPB - Tugas Akhir/PPB - Tugas Akhir/app/src/main/res/layout/row_keranjang.xml" value="0.5" />
+        <entry key="..\:/kuliah/Semester 5/PPB/PPB - Tugas Akhir/PPB - Tugas Akhir/app/src/main/res/layout/row_produk.xml" value="0.5" />
+        <entry key="..\:/kuliah/Semester 5/PPB/PPB - Tugas Akhir/PPB - Tugas Akhir/app/src/main/res/layout/row_produk_struk.xml" value="0.5" />
+        <entry key="..\:/kuliah/Semester 5/PPB/PPB - Tugas Akhir/PPB - Tugas Akhir/app/src/main/res/layout/row_riwayat.xml" value="0.5" />
+        <entry key="..\:/kuliah/Semester 5/PPB/PPB - Tugas Akhir/PPB - Tugas Akhir/app/src/main/res/layout/view_alert_proses.xml" value="0.33" />
+        <entry key="..\:/kuliah/Semester 5/PPB/PPB - Tugas Akhir/PPB - Tugas Akhir/app/src/main/res/layout/view_alert_proses_struk.xml" value="0.33" />
+        <entry key="..\:/kuliah/Semester 5/PPB/PPB - Tugas Akhir/PPB - Tugas Akhir/app/src/main/res/layout/view_alert_scan_to_add.xml" value="0.5" />
+        <entry key="..\:/kuliah/Semester 5/PPB/PPB - Tugas Akhir/PPB - Tugas Akhir/app/src/main/res/layout/view_btm_sheet__tambah_produk.xml" value="0.5" />
+        <entry key="..\:/kuliah/Semester 5/PPB/PPB - Tugas Akhir/PPB - Tugas Akhir/app/src/main/res/layout/view_produk_dialog.xml" value="0.5" />
+        <entry key="..\:/kuliah/Semester 5/PPB/ppb-Comp-Cashier/ppb-Comp-Cashier/app/src/main/res/layout/activity_bantuan.xml" value="0.33" />
+        <entry key="..\:/kuliah/Semester 5/PPB/ppb-Comp-Cashier/ppb-Comp-Cashier/app/src/main/res/layout/activity_intro.xml" value="0.22" />
+        <entry key="..\:/kuliah/Semester 5/PPB/ppb-Comp-Cashier/ppb-Comp-Cashier/app/src/main/res/layout/activity_login_screen.xml" value="0.25" />
+        <entry key="..\:/kuliah/Semester 5/PPB/ppb-Comp-Cashier/ppb-Comp-Cashier/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/kuliah/Semester 5/PPB/ppb-Comp-Cashier/ppb-Comp-Cashier/app/src/main/res/layout/activity_splash_screen.xml" value="0.25" />
+        <entry key="..\:/kuliah/Semester 5/PPB/ppb-Comp-Cashier/ppb-Comp-Cashier/app/src/main/res/layout/activity_tambah_manual.xml" value="0.33" />
+        <entry key="..\:/kuliah/Semester 5/PPB/ppb-Comp-Cashier/ppb-Comp-Cashier/app/src/main/res/layout/activity_tambah_otomatis.xml" value="0.25" />
+        <entry key="..\:/kuliah/Semester 5/PPB/ppb-Comp-Cashier/ppb-Comp-Cashier/app/src/main/res/layout/activity_tentang.xml" value="0.33" />
+        <entry key="..\:/kuliah/Semester 5/PPB/ppb-Comp-Cashier/ppb-Comp-Cashier/app/src/main/res/layout/frag_keranjang.xml" value="0.25" />
+        <entry key="..\:/kuliah/Semester 5/PPB/ppb-Comp-Cashier/ppb-Comp-Cashier/app/src/main/res/layout/frag_produk.xml" value="0.44954128440366975" />
+        <entry key="..\:/kuliah/Semester 5/PPB/ppb-Comp-Cashier/ppb-Comp-Cashier/app/src/main/res/layout/frag_riwayat.xml" value="0.33" />
+        <entry key="..\:/kuliah/Semester 5/PPB/ppb-Comp-Cashier/ppb-Comp-Cashier/app/src/main/res/layout/layout_screen.xml" value="0.5" />
+        <entry key="..\:/kuliah/Semester 5/PPB/ppb-Comp-Cashier/ppb-Comp-Cashier/app/src/main/res/layout/layout_screen_bantuan.xml" value="0.19972826086956522" />
+        <entry key="..\:/kuliah/Semester 5/PPB/ppb-Comp-Cashier/ppb-Comp-Cashier/app/src/main/res/layout/row_keranjang.xml" value="0.5" />
+        <entry key="..\:/kuliah/Semester 5/PPB/ppb-Comp-Cashier/ppb-Comp-Cashier/app/src/main/res/layout/row_produk.xml" value="0.5" />
+        <entry key="..\:/kuliah/Semester 5/PPB/ppb-Comp-Cashier/ppb-Comp-Cashier/app/src/main/res/layout/row_produk_struk.xml" value="0.5" />
+        <entry key="..\:/kuliah/Semester 5/PPB/ppb-Comp-Cashier/ppb-Comp-Cashier/app/src/main/res/layout/row_riwayat.xml" value="0.33" />
+        <entry key="..\:/kuliah/Semester 5/PPB/ppb-Comp-Cashier/ppb-Comp-Cashier/app/src/main/res/layout/view_alert_proses.xml" value="0.5" />
+        <entry key="..\:/kuliah/Semester 5/PPB/ppb-Comp-Cashier/ppb-Comp-Cashier/app/src/main/res/layout/view_alert_proses_struk.xml" value="0.33" />
+        <entry key="..\:/kuliah/Semester 5/PPB/ppb-Comp-Cashier/ppb-Comp-Cashier/app/src/main/res/layout/view_alert_scan_to_add.xml" value="0.25" />
+        <entry key="..\:/kuliah/Semester 5/PPB/ppb-Comp-Cashier/ppb-Comp-Cashier/app/src/main/res/layout/view_btm_sheet__tambah_produk.xml" value="0.67" />
+        <entry key="..\:/kuliah/Semester 5/PPB/ppb-Comp-Cashier/ppb-Comp-Cashier/app/src/main/res/layout/view_produk_dialog.xml" value="0.33" />
+        <entry key="..\:/kuliah/Semester 5/PPB/ppb-Comp-Cashier/ppb-Comp-Cashier/app/src/main/res/menu/menu_bottom_main.xml" value="0.67" />
+        <entry key="..\:/kuliah/Semester 5/PPB/ppb-Comp-Cashier/ppb-Comp-Cashier/app/src/main/res/menu/toolbar_menu.xml" value="0.20416666666666666" />
+        <entry key="..\:/kuliah/Semester 5/PPB/ppb-Comp-Cashier/ppb-Comp-Cashier/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.2203125" />
+        <entry key="..\:/kuliah/Semester 5/PPB/ppb-Comp-Cashier/ppb-Comp-Cashier/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.2203125" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

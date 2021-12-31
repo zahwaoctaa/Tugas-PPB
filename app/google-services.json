@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "813931193685",
+    "project_id": "comp-cashier",
+    "storage_bucket": "comp-cashier.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:813931193685:android:daf112f49280d142707bdc",
+        "android_client_info": {
+          "package_name": "com.zahwaoctavioliena.ppb.uas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "813931193685-tqsk0krlsam0g6vs3ari1jn2pnits2df.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYgkgJth4du6z5fyNezN741YNI_uog4hQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "813931193685-tqsk0krlsam0g6vs3ari1jn2pnits2df.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
